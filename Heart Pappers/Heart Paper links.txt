@@ -1,0 +1,4 @@
+Heart Paper-2: https://www.analyticsvidhya.com/blog/2022/02/heart-disease-prediction-using-machine-learning/
+Heart Paper-3: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10378171/
+Heart Paper-4: https://iopscience.iop.org/article/10.1088/1757-899X/1022/1/012072/meta
+Heart Paper-5: https://www.who.int/home/search-results?indexCatalogue=genericsearchindex1&searchQuery=heart%20disease&wordsMode=AnyWord
